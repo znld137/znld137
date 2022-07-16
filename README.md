@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @znld137
-- 👀 I’m interested in A.I
-- 🌱 I’m currently learning Machine Learning
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Seongsu Park
+- 👀 I’m interested in Front End
+- 🌱 I’m currently learning JS React Node...
+- 📫 How to reach me ... znld137@naver.com
+
 
 <!---
 znld137/znld137 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
